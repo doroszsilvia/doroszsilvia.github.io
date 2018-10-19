@@ -1,0 +1,106 @@
+*{
+    font-family: 'K2D', sans-serif;
+    font-size: 19px;
+}
+
+.card img{
+    height: 90vh;
+}
+
+.banner img{
+    object-fit: cover;
+    
+}
+
+.navegacao.navbar{
+    background-color: #0e0d0e;
+    height: 10vh;
+}
+
+.navegacao img{
+    height: 21vh;
+}
+
+.progress{
+    height: 4vh;
+    background: transparent;
+    margin-top: 2vh;
+}
+
+h1{
+    font-size: 9.5rem;
+    margin-bottom: 200px;
+    
+}
+
+.title{
+    text-align: center;
+    font-size: 25px;
+    text-transform: uppercase;
+    margin-top: 7%;
+}
+
+.text{
+    text-align: center;
+    font-size: 18px;
+    margin: 30px 0;
+}
+
+.progress-bar{
+    background: rgb(10, 1, 7);
+    
+}
+
+.title-services{
+    text-align: center;
+    font-size: 25px;
+    text-transform: uppercase;
+    margin-top: 5%;
+    padding-bottom: 40px;
+}
+
+.services{
+    background: #0e0d0e;
+    margin-top: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    
+}
+
+.row{
+    margin-top: 10%;
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+.contato{
+    background: #0e0d0e;
+    display: flex;
+    justify-content: center;
+}
+.contato p{
+    text-align: center;
+    font-size: 25px;
+    text-transform: uppercase;
+    
+}
+
+span.error{
+    color: rgb(236, 27, 173);
+    font-size: 14px;
+    font-weight: bold;
+}
+
+input.error{
+    border-color: rgb(236, 27, 173);
+}
+
+.footer{
+    background: #0e0d0e;
+}
+
+.footer a{
+    color: #212529;
+}
+
+
